@@ -1,7 +1,6 @@
 ## Membuat Menu Store
 
 <h2>Tugas</h2>
-- Dependecies
 
 ```Tugas
 "1. Buatlah sebuah Halaman product, untuk menampilkan semua list product yang ada"
