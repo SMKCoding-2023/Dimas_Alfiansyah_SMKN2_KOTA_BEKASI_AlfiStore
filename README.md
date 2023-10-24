@@ -1,75 +1,22 @@
-# Nuxt 3 Minimal Starter
+## Membuat Menu Store
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<h2>Tugas</h2>
+- 1. Buatlah sebuah Halaman product, untuk menampilkan semua list product yang ada
+- 2. Buatlah Sebuah halaman detail product, untuk menampilkan detail dari sebuah product
+- 3. Pastikan menampilkan sebuah detail product sesuai apa yang kita click dari salah satu list productnya, baik itu Ketika click card atau title dari sebuah productnya
+- 4. Tambahkan fungsi untuk memfilter sebuah product berdasarkan kategori
+- 5. Upload ke github, kemudian kumpulkan link githubnya
 
-## Setup
+### Tampilan Page Products
 
-Make sure to install the dependencies:
+<p><img src="https://github.com/raaffiy/CodeMart/blob/main/gambar/gambar1.png?raw=true"/></p>
 
-```bash
-# npm
-npm install
+### Tampilan List Category
 
-# pnpm
-pnpm install
+<p><img src="https://github.com/raaffiy/CodeMart/blob/main/gambar/gambar2.png?raw=true"/></p>
 
-# yarn
-yarn install
+### Tampilan Add To Cart
 
-# bun
-bun install
-```
+<p><img src="https://github.com/raaffiy/CodeMart/blob/main/gambar/gambar3.png?raw=true"/></p>
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<br>
