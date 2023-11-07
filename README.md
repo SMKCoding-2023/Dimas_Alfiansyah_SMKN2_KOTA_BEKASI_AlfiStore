@@ -1,6 +1,4 @@
-## Membuat Menu Store
-
-<h2>Tugas</h2>
+## Tugas SMKCODING
 
 <br>
 
