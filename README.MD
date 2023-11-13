@@ -2,11 +2,15 @@
 
 ### Tampilan Page Products
 
-<p><img src="https://github.com/raaffiy/CodeMart/blob/main/gambar/gambar1.png?raw=true"/></p> <br>
+<p><img src="https://github.com/raaffiy/CodeMart/blob/main/gambar/gambar1_new.png?raw=true"/></p> <br>
 
 ### Tampilan List Category
 
-<p><img src="https://github.com/raaffiy/CodeMart/blob/main/gambar/gambar2.png?raw=true"/></p> <br>
+<p><img src="https://github.com/raaffiy/CodeMart/blob/main/gambar/gambar2_new.png?raw=true"/></p> <br>
+
+### Tampilan Create Products
+
+<p><img src="https://github.com/raaffiy/CodeMart/blob/main/gambar/gambar7.png?raw=true"/></p> <br>
 
 ### Tampilan Add To Cart
 
