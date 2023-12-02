@@ -3,7 +3,7 @@
 
 ### Tampilan login
 
-<p><img src="https://github.com/trimier/Alfistore/blob/main/gambar/login.png?raw=true"/></p> <br>
+<p><img src="https://github.com/trimier/AlfiStore/blob/main/gambar/login.png?raw=true"/></p> <br>
 
 
 ### Tampilan Page Products
