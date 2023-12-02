@@ -12,7 +12,7 @@
 
 ### Tampilan List Category
 
-<p><img src="https://github.com/trimier/Alfistore/blob/main/gambar/foto2.png ?raw=true"/></p> <br>
+<p><img src="https://github.com/trimier/Alfistore/blob/main/gambar/foto2.png?raw=true"/></p> <br>
 
 ### Tampilan Create Products
 
