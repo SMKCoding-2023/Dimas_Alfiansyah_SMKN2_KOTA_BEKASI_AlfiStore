@@ -1,12 +1,5 @@
 ## Tugas SMKCODING
 
-### Tampilan Login
-
-<p><img src="https://github.com/raaffiy/CodeMart/blob/main/gambar/login.png?raw=true"/></p> <br>
-
-### Tampilan Register
-
-<p><img src="https://github.com/raaffiy/CodeMart/blob/main/gambar/register.png?raw=true"/></p> <br>
 
 ### Tampilan Page Products
 
